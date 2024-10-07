@@ -1,6 +1,10 @@
 # Terraform: AWS Infrastructure
 This project contains Terraform code to automate the provisioning of AWS infrastructure. It helps to deploy and manage cloud resources such as VPCs, EC2 instances, S3 buckets, and more. The goal is to provide a scalable and easily configurable infrastructure using Infrastructure as Code (IaC).
 
+
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/0a9429e9-bbb0-4ca5-9049-0e905b6fbdc8)
+
+
 ## Project Overview
 
 The **Terraform AWS Infrastructure** project helps automate the deployment of various AWS resources using Terraform. It allows you to define infrastructure in a declarative manner, making it easier to version, maintain, and replicate cloud environments.
